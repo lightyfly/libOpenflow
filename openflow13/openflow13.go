@@ -13,9 +13,9 @@ import (
 	"errors"
 	"net"
 
-	"github.com/shaleman/libOpenflow/common"
-	"github.com/shaleman/libOpenflow/protocol"
-	"github.com/shaleman/libOpenflow/util"
+	"github.com/lightyfly/libOpenflow/common"
+	"github.com/lightyfly/libOpenflow/protocol"
+	"github.com/lightyfly/libOpenflow/util"
 )
 
 const (
