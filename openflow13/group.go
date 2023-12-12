@@ -6,7 +6,7 @@ import (
 	"encoding/binary"
 
 	log "github.com/sirupsen/logrus"
-	"github.com/shaleman/libOpenflow/common"
+	"github.com/lightyfly/libOpenflow/common"
 )
 
 const (
